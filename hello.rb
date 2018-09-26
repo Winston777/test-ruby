@@ -1,1 +1,2 @@
-print "Bonjour Monde!"
+user = gets.chomp
+print "Bonjour" + user + "!"
